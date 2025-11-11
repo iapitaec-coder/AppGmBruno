@@ -1,0 +1,7 @@
+{
+  "name": "Generador de Notas de Entrega",
+  "description": "Una aplicación para crear, gestionar y rastrear notas de entrega de mercadería entre puntos de venta.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
